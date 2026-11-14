@@ -1,0 +1,50 @@
+body{
+
+    font-family: Verdana; Tohama; sans-serif
+    font-size medium;
+    background-colort: aquamarine
+
+
+}
+
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.card{
+    display: inline-block;
+    width: 250px;
+    padding: 20px;
+    background-color: brown;
+    border: 1px solid;
+    border-radius: 8px;
+
+
+}
+
+
+menu{
+    font-family: 'Frank Gothic Medium'; 'Arial Narrow'; 'Arial'; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+}
