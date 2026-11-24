@@ -45,3 +45,41 @@ h2, h3 {
     font-family: Arial, sans-serif;
 }
 
+
+
+
+--lab3--
+body {
+    background-color: #f0f4f8;
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    color: #333333;
+}
+
+h1 {
+    font-size: 32px;
+    color: #14d591;
+    text-align: center;
+}
+
+h2 {
+    font-size: 22px;
+    color: #276749;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+ul {
+    line-height: 1.8;
+}
+
+a {
+    color: #145da0;
+}
+
+a:hover {
+    text-decoration: underline;
+}
