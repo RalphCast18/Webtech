@@ -122,3 +122,48 @@ h1 {
     color: #555555;
     line-height: 1.6;
 }
+
+
+/*lab5*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: dark blue;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.card {
+    flex: 1 1 220px;
+    max-width: 300px;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #dddddd;
+    border-radius: 8px;
+}
+
+.card h2 {
+    color: darkblue;
+}
+
+.card a {
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.card a:hover {
+    text-decoration: underline;
+}
